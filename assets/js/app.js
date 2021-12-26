@@ -1,7 +1,7 @@
 $(function () {
-    $('[data-toggle="tooltip"]').tooltip()
-  })
+  $('[data-toggle="tooltip"]').tooltip();
+});
 
-  $( "#button" ).click(function() {
-    alert( "Mensaje enviado" );
-  });
+$("#button").click(function () {
+  alert("Mensaje enviado");
+});
