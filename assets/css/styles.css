@@ -51,6 +51,10 @@ body {
   margin-right: 10px;
 }
 
+.card img {
+  aspect-ratio: 4/3;
+}
+
 @media screen and (max-width: 700px) {
   .footer {
     flex-direction: column;
