@@ -7,6 +7,9 @@ body {
   color: white;
 }
 
+hr {
+  border-top: 1px solid rgb(153 151 151 / 98%);
+}
 .navbar-brand img {
   height: 50px;
 }
